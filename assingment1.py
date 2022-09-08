@@ -1,0 +1,12 @@
+firstName = str(input('Please enter your first name '))
+lastName = str(input('Please enter your last name '))
+age = int(input('How old are you? '))
+ssn = int(input('social security no? '))
+height = int(input('height? '))
+weight = int(input('weight? '))
+
+print(firstName, lastName)
+print(age, 'years old')
+print('Social Security No: ', ssn)
+print('Height: ', height)
+print('Weight: ', weight)
