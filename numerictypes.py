@@ -24,7 +24,7 @@ print(d)
 print(type(d))
 
 e=0B1010 #binary type defined, print converts into int
-print(e)
+print("HERE IS BINARY!!!", e)
 print(type(e))
 
 f=0XFF #Hexadecimal type
