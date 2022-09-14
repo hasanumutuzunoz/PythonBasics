@@ -1,4 +1,4 @@
-# An interface in Python is simple an abstract class with all the methods are abstract method
+# An interface in Python is simply an abstract class with all the methods are abstract method
 # So I am not writing an interface code again here
 # ABC must be inherited to create abstract class
 # abstractmethod must be inherited to create abstract method

@@ -1,5 +1,5 @@
-s = "Take up one idea and make that idea your life. "
-    "Think and dream of that idea and leave every other idea alone."
+s = '''Take up one idea and make that idea your life. 
+Think and dream of that idea and leave every other idea alone.'''
 print(s)
 
 subs = "idea"

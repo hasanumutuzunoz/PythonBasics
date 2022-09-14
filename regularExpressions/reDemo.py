@@ -27,11 +27,12 @@ str = "take up 1-3-2019 oneasdas23das idea, 6749 Oneaasssdd idea at 99 a ti89729
 """
 
 # Search returns one result
+# \w\w\w means after 'o', add str (string) to search, so this example returns 'oneasd'
 result = re.search(r'o\w\w\w\w\w', str)
 # .group give us the exact string we are searching
 print(result.group())
 
-# Findall starts from the beginning and all the way to ethe end returns list of all findings
+# Findall starts from the beginning and all the way to the end returns list of all findings
 result = re.findall(r'o\w\w', str)
 print(result)
 
