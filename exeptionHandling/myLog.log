@@ -19,3 +19,9 @@ CRITICAL:root:critical
 ERROR:root:Error has occured at line xxxx
 WARNING:root:warning
 INFO:root:info
+INFO:root:Division is in progress
+INFO:root:Division is in progress
+INFO:root:Division is in progress
+INFO:root:Division is in progress
+ERROR:root:Division by zero
+INFO:root:Division is in progress
